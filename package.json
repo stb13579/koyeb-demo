@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "koa": "^2.14.1"
+  },
+  "name": "koa-koyeb",
+  "version": "0.0.1",
+  "description": "a demo application",
+  "main": "app.js",
+  "author": "shaun brown",
+  "license": "MIT",
+  "private": false
+}
